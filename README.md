@@ -2,6 +2,8 @@
 I am someone that is always trying to learn new things and get better at them. Learning programming at the moment.
 ## Languages and Technology i am learning
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 
 
 <!--
