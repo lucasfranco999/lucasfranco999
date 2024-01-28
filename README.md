@@ -1,6 +1,6 @@
 ### Hey, my name is Lucas 👋
-
-## I am someone that is always trying to learn new things and get better at them. Learning programming at the moment. 
+##
+I am someone that is always trying to learn new things and get better at them. Learning programming at the moment. 
 
 
 <!--
