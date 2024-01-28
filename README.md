@@ -12,6 +12,14 @@ I am someone that is always trying to learn new things and get better at them. L
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
+##  GitHub Stats
+
+<div direction="row"align="center">
+  <a href="https://github.com/lucasfranco999">
+  <img height="180em" width="full" src="https://github-readme-stats.vercel.app/api?username=lucasfranco999&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="full" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfranco999&layout=compact&theme=synthwave"/>
+</div>
+
 
 <!--
 **lucasfranco999/lucasfranco999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
