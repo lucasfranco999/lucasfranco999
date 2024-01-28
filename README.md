@@ -5,6 +5,7 @@ I am someone that is always trying to learn new things and get better at them. L
 [![Linkedin Badge](https://img.shields.io/badge/-lucasfranco999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfranco999/)](https://www.linkedin.com/in/lucasfranco999/)
 ## Languages and technology i am learning
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
