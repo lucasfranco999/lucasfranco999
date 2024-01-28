@@ -2,6 +2,7 @@
 I am someone that is always trying to learn new things and get better at them. Learning programming at the moment.
 
 [![Gmail Badge](https://img.shields.io/badge/-lucasfrancoo27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasfrancooo27@gmail.com)](mailto:lucasfrancooo27@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-lucasfranco999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfranco999/)](https://www.linkedin.com/in/lucasfranco999/)
 ## Languages and technology i am learning
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
