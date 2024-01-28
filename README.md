@@ -17,7 +17,7 @@ I am someone that is always trying to learn new things and get better at them. L
 <div direction="row"align="center">
   <a href="https://github.com/lucasfranco999">
   <img height="180em" width="full" src="https://github-readme-stats.vercel.app/api?username=lucasfranco999&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="full" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfranco999&layout=compact&theme=synthwave"/>
+  <img height="180em" width="full" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfranco999&layout=compact&theme=dark"/>
 </div>
 
 
