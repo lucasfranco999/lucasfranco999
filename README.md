@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, my name is Lucas 👋
+
+<div>
+  I am someone that is always trying to learn new things and get better at them. Learning programming at the moment. 
+</div>
 
 <!--
 **lucasfranco999/lucasfranco999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
