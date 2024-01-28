@@ -1,6 +1,6 @@
 ## **Hey, my name is Lucas 👋**
 I am someone that is always trying to learn new things and get better at them. Learning programming at the moment.
-## Languages and Technology i am learning
+## Languages and technology i am learning
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
