@@ -3,7 +3,7 @@ I am someone that is always trying to learn new things and get better at them. L
 
 [![Gmail Badge](https://img.shields.io/badge/-lucasfrancoo27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasfrancooo27@gmail.com)](mailto:lucasfrancooo27@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-lucasfranco999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfranco999/)](https://www.linkedin.com/in/lucasfranco999/)
-## Languages and technology i am learning
+## Languages and technology that i am learning
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
